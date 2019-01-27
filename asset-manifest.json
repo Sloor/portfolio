@@ -1,7 +1,7 @@
 {
   "main.css": "/portfolio/static/css/main.97c724b1.chunk.css",
-  "main.js": "/portfolio/static/js/main.6d932221.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.6d932221.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.e3137535.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.e3137535.chunk.js.map",
   "static/js/1.aeb78ede.chunk.js": "/portfolio/static/js/1.aeb78ede.chunk.js",
   "static/js/1.aeb78ede.chunk.js.map": "/portfolio/static/js/1.aeb78ede.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
@@ -9,9 +9,9 @@
   "static/media/me.jpg": "/portfolio/static/media/me.675c287a.jpg",
   "static/media/robots.png": "/portfolio/static/media/robots.f2eea234.png",
   "static/media/facerecognition.png": "/portfolio/static/media/facerecognition.a5e717f4.png",
-  "static/media/gradient.png": "/portfolio/static/media/gradient.adf6f77d.png",
+  "static/media/chatApp.png": "/portfolio/static/media/chatApp.6538838e.png",
   "static/css/main.97c724b1.chunk.css.map": "/portfolio/static/css/main.97c724b1.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.9f6226ffa94ed095d852581544d8d637.js": "/portfolio/precache-manifest.9f6226ffa94ed095d852581544d8d637.js",
+  "precache-manifest.86fabc292f01aa3ea76ef5fa8fd8738d.js": "/portfolio/precache-manifest.86fabc292f01aa3ea76ef5fa8fd8738d.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }

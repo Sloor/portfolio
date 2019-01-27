@@ -8,31 +8,31 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/me.675c287a.jpg"
   },
   {
-    "revision": "adf6f77d03bbc72631c03403a959c320",
-    "url": "/portfolio/static/media/gradient.adf6f77d.png"
-  },
-  {
     "revision": "a5e717f4318a45a2736e947d107d42e5",
     "url": "/portfolio/static/media/facerecognition.a5e717f4.png"
+  },
+  {
+    "revision": "6538838edfc586b05283a5c051ab7351",
+    "url": "/portfolio/static/media/chatApp.6538838e.png"
   },
   {
     "revision": "ee2a100325fd284f0097",
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
-    "revision": "6d93222169131299ff63",
-    "url": "/portfolio/static/js/main.6d932221.chunk.js"
+    "revision": "e3137535ddca792307c9",
+    "url": "/portfolio/static/js/main.e3137535.chunk.js"
   },
   {
     "revision": "aeb78ede23d007943c6f",
     "url": "/portfolio/static/js/1.aeb78ede.chunk.js"
   },
   {
-    "revision": "6d93222169131299ff63",
+    "revision": "e3137535ddca792307c9",
     "url": "/portfolio/static/css/main.97c724b1.chunk.css"
   },
   {
-    "revision": "0d315fbd31256f8f69a45e536d613b50",
+    "revision": "cc379ab24da2634ae3d5c995e332d273",
     "url": "/portfolio/index.html"
   }
 ];
