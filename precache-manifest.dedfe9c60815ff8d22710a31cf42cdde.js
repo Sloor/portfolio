@@ -12,27 +12,27 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/facerecognition.a5e717f4.png"
   },
   {
-    "revision": "6538838edfc586b05283a5c051ab7351",
-    "url": "/portfolio/static/media/chatApp.6538838e.png"
+    "revision": "6a656e06ffa641308fdfc3cd9875fc6b",
+    "url": "/portfolio/static/media/chatApp.6a656e06.png"
   },
   {
     "revision": "ee2a100325fd284f0097",
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
-    "revision": "e3137535ddca792307c9",
-    "url": "/portfolio/static/js/main.e3137535.chunk.js"
+    "revision": "709b4621797132f0fcc6",
+    "url": "/portfolio/static/js/main.709b4621.chunk.js"
   },
   {
     "revision": "aeb78ede23d007943c6f",
     "url": "/portfolio/static/js/1.aeb78ede.chunk.js"
   },
   {
-    "revision": "e3137535ddca792307c9",
-    "url": "/portfolio/static/css/main.97c724b1.chunk.css"
+    "revision": "709b4621797132f0fcc6",
+    "url": "/portfolio/static/css/main.243f72ac.chunk.css"
   },
   {
-    "revision": "cc379ab24da2634ae3d5c995e332d273",
+    "revision": "164c322aa221a952d9096b5812f63f4a",
     "url": "/portfolio/index.html"
   }
 ];
